@@ -1,0 +1,71 @@
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0px;
+	padding: 0px;
+}
+
+/* CONTAINER */
+
+#container {
+	width:1000px;
+	margin: 0 auto;
+}
+
+/* HEADER */
+
+#header {
+	clear:both;
+}
+
+/* NAV */
+
+#nav {
+	clear:both;
+}
+
+/* SIDEBAR */
+
+#sidebar {
+	float:right;
+	width: 30%;	
+}
+
+/* FOOTER */
+
+#footer {
+	clear:both;
+}
+
+
+/* NEWS ARTICLES */
+
+#post {
+	width: 68%;
+	float: left;
+	margin-bottom: 5px;
+}
+#post-category {
+	clear:both;
+}
+
+#featuredimg {
+	width: 100%;
+	height: 150px;
+	overflow: hidden;
+}
+
+#storyimage {
+	width: 700px;
+	height: 150px;
+	overflow: hidden;
+}
+
+/* PAGINATION */
+
+#pagination {
+	clear: both;
+}
